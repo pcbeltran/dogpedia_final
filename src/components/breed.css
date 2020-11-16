@@ -1,0 +1,62 @@
+.breed {
+  padding: 1rem;
+  width: 300px;
+  min-height: 175px;
+  background-color: #fff;
+  color: #151116;
+  border-radius: 10px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.breed__button {
+  display: block;
+  padding: 0.25rem;
+  border-radius: 50%;
+  border: none;
+  background-color: transparent;
+  color: #151116;
+  transition: all 0.15s;
+  outline: none;
+}
+
+.breed__button:disabled {
+  opacity: 0.6;
+}
+
+.breed__button:focus {
+  color: white;
+  background-color: #151116;
+}
+
+.breed__button:hover {
+  color: white;
+  background-color: #151116;
+}
+
+.breed__button:active {
+  color: white;
+  background-color: #151116;
+}
+
+.breed__button svg {
+  font-size: 1.25rem;
+}
+
+.breed > * {
+  margin-bottom: 0.25rem;
+}
+
+.breed__title {
+  font-weight: bold;
+}
+
+.breed__year {
+  font-style: italic;
+}
+
+.breed__others {
+  font-weight: normal;
+}

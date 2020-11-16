@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Alaska Malamute",
+    "rating": 5,
+    "origin": "Alaska",
+    "size": "L",
+    "weight": "88 lb"
+
+  },
+
+  {
+    "title": "Pomerania",
+    "rating": 5,
+    "origin": "England",
+    "size": "S",
+    "weight": "7.7 lb"
+  },
+
+  {
+    "title": "German Sepherd",
+    "rating": 3,
+    "origin": "Germany",
+    "size": "L",
+    "weight": "88 lb"
+  },
+
+  {
+    "title": "Color Out of Space",
+    "rating": 1,
+    "origin": 2019,
+    "review": "This concept probably works better as a short story than as a film."
+  }
+]
